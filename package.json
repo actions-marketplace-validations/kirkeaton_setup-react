@@ -8,15 +8,15 @@
   },
   "dependencies": {
     "@actions/core": "1.11.1",
-    "package-manager-detector": "1.5.0"
+    "package-manager-detector": "1.6.0"
   },
   "devDependencies": {
     "@kirkeaton/prettier-config": "1.0.5",
-    "@kirkeaton/semantic-release-config": "1.1.0",
+    "@kirkeaton/semantic-release-config": "2.0.0",
     "@kirkeaton/tsconfig": "2.1.0",
     "@types/node": "24.10.1",
     "esbuild": "0.27.0",
-    "prettier": "3.6.2",
+    "prettier": "3.7.3",
     "semantic-release": "25.0.2",
     "typescript": "5.9.3"
   },
@@ -34,7 +34,7 @@
     "setup"
   ],
   "license": "BSD-3-Clause",
-  "packageManager": "pnpm@10.22.0+sha512.bf049efe995b28f527fd2b41ae0474ce29186f7edcb3bf545087bd61fbbebb2bf75362d1307fda09c2d288e1e499787ac12d4fcb617a974718a6051f2eee741c",
+  "packageManager": "pnpm@10.24.0+sha512.01ff8ae71b4419903b65c60fb2dc9d34cf8bb6e06d03bde112ef38f7a34d6904c424ba66bea5cdcf12890230bf39f9580473140ed9c946fef328b6e5238a345a",
   "pnpm": {
     "onlyBuiltDependencies": [
       "esbuild"
